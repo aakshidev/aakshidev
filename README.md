@@ -1,5 +1,10 @@
 # 💫 About Me:
 I'm in senior year of highschool and looking forward too learn more and engage<br>I know basic HTML and CSS and I'm currently learning JavaScript and working on notes app.
+# My Projects
+- Portfolio Website
+- Blogging Site
+- E- commerce website
+- To-Do list 
 
 
 ## 🌐 Socials:
@@ -15,4 +20,3 @@ I'm in senior year of highschool and looking forward too learn more and engage<b
 ---
 [![](https://komarev.com/ghpvc/?username=aakshidev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
